@@ -1,6 +1,6 @@
 # Fat 32 Reader
 
-A C program that reads a FAT 32-formatted drive.
+A C program that reads a FAT 32-formatted drive. Built based on [this specification](https://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/fatgen103.doc).
 
 ## Usage
 To compile this program, run make or execute the following from this directory:
